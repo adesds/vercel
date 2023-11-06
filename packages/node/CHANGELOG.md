@@ -1,5 +1,14 @@
 # @vercel/node
 
+## 3.0.8
+
+### Patch Changes
+
+- bump: edge-runtime ([#10712](https://github.com/vercel/vercel/pull/10712))
+
+- Updated dependencies [[`34dd9c091`](https://github.com/vercel/vercel/commit/34dd9c0918585cf6d3b04bddd9158978b0b4192f)]:
+  - @vercel/error-utils@2.0.2
+
 ## 3.0.7
 
 ### Patch Changes
